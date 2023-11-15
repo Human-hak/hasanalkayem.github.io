@@ -21,5 +21,5 @@ My research journey has been dedicated to <span style="color:blue">enhancing com
 As a former <span style="color:blue">Software Engineer at Enosis Solutions</span>, I gained practical industry experience. Presently, I contribute to academia as a <span style="color:blue">Lecturer in the Department of Computer Science and Engineering at United International University,</span> fostering a new generation of tech enthusiasts. 
 
 <span style="color:blue">Eager to deepen my expertise, I am actively seeking a Ph.D. opportunity in Computer Architecture and High-Performance Computing Systems for Fall 2023. My research aspirations focus on advancing computation in the realms of Deep Learning and Computer Security, aiming to make significant contributions to these evolving research domains.</span>
-Please communicate with me through [Email](mdhasanalkayem1998@gmail.com) for your queries or about opportunities. Here is my [CV](https://hasanalkayem.github.io/cv/). 
+Please communicate with me through [Email](mailto:mdhasanalkayem1998@gmail.com) for your queries or about opportunities. Here is my [CV](https://hasanalkayem.github.io/cv/). 
 
