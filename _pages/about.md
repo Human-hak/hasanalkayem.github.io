@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: <p style="color:blue">Lecturer, Department of Computer Science and Engineering, United International University</p>
 
 profile:
   align: right
   image: 01.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-<p style="color:blue">Lecturer, Department of Computer Science and Engineering, United International University</p>
+
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
