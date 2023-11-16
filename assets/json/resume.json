@@ -56,10 +56,19 @@
       "studyType": "Bachelors",
       "startDate": "2015-11-01",
       "endDate": "2021-01-24",
-      "score": "",
-      "courses": [
-        
-      ]
+      "score": "3.89/4.00",
+      "courses": []
+    },
+
+    {
+      "institution": "Govt. Science College, Dhaka, Bangladesh",
+      "url": "https://www.buet.ac.bd/web/#/",
+      "area": "Science",
+      "studyType": "Higher School Certificate",
+      "startDate": "2013-08-01",
+      "endDate": "2025-08-24",
+      "score": "5.00/5.00",
+      "courses": []
     }
   ],
   "awards": [
@@ -67,7 +76,13 @@
       "title": "Deans List Award",
       "date": "2016-11-01",
       "awarder": "Bangladesh University of Engineering and Technology",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "2 times prestigious Dean's List Scholarship for extraordinary academic achievement"
+    },
+    {
+      "title": "2nd Runner Up",
+      "date": "2016-11-01",
+      "awarder": "Math Puzzle Olympiad",
+      "summary": "BUET Math Festival"
     }
   ],
   "certificates": [],
