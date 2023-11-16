@@ -2,11 +2,9 @@
 layout: page
 permalink: /research/
 title: Research
-description: Materials for courses you taught. Replace this text with your description.
+description: My research journey has been dedicated to enhancing computational performance across varied domains, including Bioinformatics, ISP Censorship, Social Networks and Deep Learning Algorithms, particularly with large datasets.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Page is Under Construction

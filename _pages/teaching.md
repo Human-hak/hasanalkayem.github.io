@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Presently, I contribute to academia as a Lecturer in the Department of Computer Science and Engineering at United International University, fostering a new generation of tech enthusiasts.
 nav: true
 nav_order: 8
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Page is Under Construction
