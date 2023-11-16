@@ -2,96 +2,97 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Md Hasan Al Kayem
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd February, 1998
     - name: Languages
-      value: English, German
+      value: English, Bangla
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B. Sc. in Computer Science and Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - CGPA 3.89/4.00
+        - Department Rank 6/143
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Higher Secondary Certificate
+      institution: Govt. Science College, Dhaka, Bangladesh
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 5.00/5.00
+        - College Rank 1/1200
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Lecturer
+      institution: Department of Computer Science and Engineering, United International University
+      year: 2021-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Teaching Dozens of Courses
+        - Mentoring multiple students on their projects
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Software Engineer
+      institution: Enosis Solutions, Dhaka, Bangladesh
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Worked on various projects using C# and .NET Framework
+        - Contributed on WiFi protocol analysis
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    #- title: Director
+    #  institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    #  year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    #- title: Professor of Theoretical Physics
+    #  institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #  year: 1911 - 1917
+    #  description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    #- title: Associate Professor of Theoretical Physics
+    # institution: University of Zurich, Zurich, Switzerland
+    #  year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: <a href="https://github.com/hasanalkayem">projects</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: I have contributed multiple projects
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2015-2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - University Merit Scholarship 
+        - Bangladesh University of Engineering and Technology
+    - year: 2016,2017
       items: 
-        - Max Planck Medal
+        - Deans List Scholarship
+        - Bangladesh University of Engineering and Technology
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Architecture
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Enhancing performance of computer on different types of problem solving
+        #- Description 2.
+    - title: Deep Learning and Security
       items:
-        - Description 1.
-        - Description 2.
+        - Apply deep learning in different domains like Security threat analysis
+        #- Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Playing cricket, Traveling, Reading books etc.
