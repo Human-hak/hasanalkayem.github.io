@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I hold a <span style="color:blue">Bachelor of Science in Computer Science and Engineering from Bangladesh University of Engineering and Technology,</span> reflecting a robust academic foundation. 
+I completed <span style="color:blue">Bachelor of Science in Computer Science and Engineering from Bangladesh University of Engineering and Technology,</span> reflecting a robust academic foundation. 
 My research journey has been dedicated to <span style="color:blue">enhancing computational performance</span> across varied domains, including <span style="color:blue">Bioinformatics, ISP Censorship, Social Networks and Deep Learning Algorithms,</span> particularly with large datasets. 
 As a former <span style="color:blue">Software Engineer at Enosis Solutions</span>, I gained practical industry experience. Presently, I contribute to academia as a <span style="color:blue">Lecturer in the Department of Computer Science and Engineering at United International University,</span> fostering a new generation of tech enthusiasts. 
 
